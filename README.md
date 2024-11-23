@@ -18,3 +18,10 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/BigFaceMan/count.s
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BigFaceMan&layout=compact&theme=tokyonight)
 
 [![BigFaceMan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BigFaceMan&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/BigFaceMan/BigFaceMan/blob/main/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/BigFaceMan/BigFaceMan/blob/main/profile-snake-contrib/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/BigFaceMan/BigFaceMan/blob/main/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+</picture>
