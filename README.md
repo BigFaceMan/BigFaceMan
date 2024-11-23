@@ -12,7 +12,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/BigFaceMan/count.s
 ### My Skill Set
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
-<div align="center" >
+<div >
   
   <!--  skill badge 技能徽章 -->
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
@@ -32,6 +32,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/BigFaceMan/count.s
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BigFaceMan&layout=compact&theme=tokyonight)
 
+### My status 
 [![BigFaceMan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BigFaceMan&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
