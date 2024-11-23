@@ -12,9 +12,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/BigFaceMan/count.s
 ### My Skill Set
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
-  
 <div align="center" >
-  
   <!--  skill badge 技能徽章 -->
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
 ![Java](https://img.shields.io/badge/-Java-ab7221?style=flat-square&logo=Java&logoColor=fff)
@@ -34,9 +32,8 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/BigFaceMan/count.s
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
   
 </div>
-![](https://github-readme-activity-graph.cyclic.app/graph?username=BigFaceMan&theme=dracula)
 
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://github-readme-activity-graph.cyclic.app/graph?username=BigFaceMan&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BigFaceMan&layout=compact&theme=tokyonight)
 
