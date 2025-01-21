@@ -1,7 +1,7 @@
 ### Hi there 👋,I'm ssp.
 
-- 🔭 I’m currently working on something cool.
-- 🌱 I’m currently learning Everything I like.
+- 🔭 I’m a graduate student majoring in 3D reconstruction.
+- 👀 I’m interested in Computer Vision, Java/Go Backend.
 - 💬 Ask me about anything related to Java/Python.
 - 📫 How to reach me: songsp2002@163.com
 
