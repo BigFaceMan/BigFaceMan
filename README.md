@@ -1,8 +1,7 @@
 ### Hi there 👋,I'm ssp.
 
 - 🔭 I’m a graduate student majoring in 3D reconstruction.
-- 👀 I’m interested in Computer Vision, Java/Go Backend.
-- 💬 Ask me about anything related to Java/Python.
+- 👀 I’m interested in Computer Vision, Java Backend, OS.
 - 📫 How to reach me: songsp2002@163.com
 
 ![](https://github-readme-stats.vercel.app/api?username=BigFaceMan&show_icons=true&theme=transparent)
