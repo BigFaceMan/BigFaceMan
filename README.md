@@ -6,8 +6,9 @@
 - 👀 I’m interested in **Computer Vision, Java Backend, OS**.
 - 📫 How to reach me: **songsp2002@163.com**
 
-
-## 🚀 GitHub Stats  
+<div align="left">
+  <h2>🚀 GitHub Stats</h2>
+</div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BigFaceMan&show_icons=true&theme=transparent" width="50%">
 </div>
@@ -17,7 +18,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/BigFaceMan/count.s
 
 ## 🛠️ My Skill Set & Top Languages  
 
-### **🔹 Skill Set**
+### 🔹 Skill Set
 <p>
   <img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat">
@@ -28,7 +29,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/BigFaceMan/count.s
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff">
 </p>
 
-### **📌 Top Languages**
+### 📌 Top Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BigFaceMan&layout=compact&theme=tokyonight" width="50%">
 </p>
