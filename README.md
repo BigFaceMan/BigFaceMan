@@ -27,7 +27,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/BigFaceMan/count.s
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
 </div>
 
-![](https://github-readme-activity-graph.cyclic.app/graph?username=BigFaceMan&theme=dracula)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BigFaceMan&layout=compact&theme=tokyonight)
 
