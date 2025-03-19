@@ -1,10 +1,8 @@
 ### Hi there 👋,I'm ssp.
 
-```
 <a> 
     <img align='right' alt='programmer' width=60% src='./assest/undraw_web_developer_p3e5.svg' />
 </a>
-```
 
 - 🔭 I’m a graduate student majoring in 3D reconstruction.
 - 👀 I’m interested in Computer Vision, Java Backend, OS.
