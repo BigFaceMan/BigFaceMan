@@ -6,9 +6,6 @@
 - 👀 I’m interested in **Computer Vision, Java Backend, OS**.
 - 📫 How to reach me: **songsp2002@163.com**
 
-<div align="left">
-  <h2>🚀 GitHub Stats</h2>
-</div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BigFaceMan&show_icons=true&theme=transparent" width="50%">
 </div>
