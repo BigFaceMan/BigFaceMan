@@ -1,7 +1,7 @@
 ### Hi there 👋,I'm ssp.
 
 <a> 
-    <img align='right' alt='programmer' width=60% src='./assest/coding.jpg' />
+    <img align='right' alt='programmer' width=30% height=30% src='./assest/coding.jpg' />
 </a>
 
 - 🔭 I’m a graduate student majoring in 3D reconstruction.
