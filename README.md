@@ -28,6 +28,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/BigFaceMan/count.s
       </div>
     </td>
     <td>
+        <br>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BigFaceMan&layout=compact&theme=tokyonight">
     </td>
   </tr>
