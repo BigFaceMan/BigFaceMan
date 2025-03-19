@@ -1,5 +1,11 @@
 ### Hi there 👋,I'm ssp.
 
+```
+<a> 
+    <img align='right' alt='programmer' width=60% src='./assest/undraw_web_developer_p3e5.svg' />
+</a>
+```
+
 - 🔭 I’m a graduate student majoring in 3D reconstruction.
 - 👀 I’m interested in Computer Vision, Java Backend, OS.
 - 📫 How to reach me: songsp2002@163.com
@@ -12,7 +18,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/BigFaceMan/count.s
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
 <div >
-  
+
   <!--  skill badge 技能徽章 -->
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
@@ -29,5 +35,4 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/BigFaceMan/count.s
 
 ### My status 
 [![BigFaceMan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BigFaceMan&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
