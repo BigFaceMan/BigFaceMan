@@ -6,7 +6,9 @@
 - 👀 I’m interested in **Computer Vision, Java Backend, OS**.
 - 📫 How to reach me: **songsp2002@163.com**
 
-<span style="font-size: 20px; font-weight: bold;">🛠️ My Skill Set & Top Languages</span>
+
+
+## 🛠️ My Skill Set & Top Languages  
 
 ### 🔹 Skill Set
 <p>
