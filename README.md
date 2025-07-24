@@ -6,11 +6,6 @@
 - 👀 I’m interested in **Computer Vision, Java Backend, OS**.
 - 📫 How to reach me: **songsp2002@163.com**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BigFaceMan&show_icons=true&theme=transparent" width="50%">
-</div>
-
-You are my ![Visitor Count](https://profile-counter.glitch.me/BigFaceMan/count.svg) visitor, Thank You! 💖💖  
 
 
 ## 🛠️ My Skill Set & Top Languages  
@@ -31,10 +26,3 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/BigFaceMan/count.s
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BigFaceMan&layout=compact&theme=tokyonight" width="50%">
 </p>
 
-
-## 📊 GitHub Activity  
-<div align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=BigFaceMan&theme=dracula" />
-  </a>
-</div>
