@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm ssp.
 
-<img align="right" alt="programmer" width="15%" height="30%" src="./assest/coding.jpg" />
+<img align="right" alt="programmer" width="50%" height="30%" src="./assest/coding.jpg" />
 
 - 🔭 I’m a graduate student majoring in **3D reconstruction**.
 - 👀 I’m interested in **Computer Vision, Java Backend, OS**.
