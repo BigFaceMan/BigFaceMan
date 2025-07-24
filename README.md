@@ -1,7 +1,5 @@
 ## Hi there 👋, I'm ssp.
-
-
-
+<img align="right" alt="programmer" width="30%" height="40%" src="./assest/coding.jpg" />
 - 🔭 I’m a graduate student majoring in **3D reconstruction**.
 - 👀 I’m interested in **Computer Vision, Java Backend, OS**.
 - 📫 How to reach me: **songsp2002@163.com**
@@ -9,7 +7,7 @@
 
 
 ## 🛠️ My Skill Set & Top Languages  
-<img align="right" alt="programmer" width="40%" height="50%" src="./assest/coding.jpg" />
+
 ### 🔹 Skill Set
 <p>
   <img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC">
