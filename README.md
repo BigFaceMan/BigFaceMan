@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm ssp.
 
 - 🔭 I’m a graduate student majoring in **3D reconstruction**.
-- 👀 I’m interested in **Computer Vision, Java Backend, OS**.
+- 👀 I’m interested in **building automation systems, PL, OS**.
 - 📫 How to reach me: **songsp2002@163.com**
 <img align="right" alt="programmer" width="45%"  src="./assest/coding.jpg" />
 
